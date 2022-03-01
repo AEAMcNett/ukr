@@ -21,3 +21,8 @@ chmod +x ukr.py
 ```
 ./ukr.py <filename.jpg>
 ```
+
+## example
+
+- From: ~[A picture of Kamianets-Podilskyi Castle from Wikipedia](https://github.com/AEAMcNett/ukr/blob/main/kpc.jpg)
+- To: ~[A picture of Kamianets-Podilskyi Castle altered by this script](https://github.com/AEAMcNett/ukr/blob/main/ukr_kpc.png)
