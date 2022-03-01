@@ -32,6 +32,6 @@ to_rgba = current_image.convert("RGBA")
 
 out = Image.alpha_composite(to_rgba, box)
 
-to_rgba.save(current_file)
+out.save(current_file)
 
-out.show()
+out.show()  # optional

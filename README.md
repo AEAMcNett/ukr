@@ -17,7 +17,7 @@ pip install -r requirements.txt
 chmod +x ukr.py
 ```
 
-4. Run the script from its directory, supplying the filename (including extension) for the image you want to alter as the sole argument. The image file must be in the script directory as well.
+4. Run the script from its directory, supplying the filename (including extension) for the image you want to alter as the sole argument. The image file must be in the script directory.
 ```
 ./ukr.py <filename.jpg>
 ```
